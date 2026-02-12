@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Álvaro Marín</h1>
+<h1 align="center">Hola! Soy Álvaro Marín 👋</h1>
 <h3 align="center">Desarrollador de Aplicaciones Multiplataforma (DAM) en busca de prácticas (FCT)</h3>
 
 <p align="left"> 
