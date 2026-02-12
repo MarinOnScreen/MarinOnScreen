@@ -30,8 +30,3 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="45" height="45"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/> </a>
 </p>
-
----
-
-### Mi actividad en GitHub:
-![Resumen de GitHub](https://github-readme-stats.vercel.app/api?username=MarinOnScreen&show_icons=true&theme=radical)
