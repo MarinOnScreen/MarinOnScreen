@@ -1,11 +1,11 @@
 <h1 align="center">Hola! Soy Álvaro Marín 👋</h1>
-<h3 align="center">Desarrollador de Aplicaciones Multiplataforma (DAM) en busca de prácticas (FCT)</h3>
+<h3 align="center">Desarrollador de Aplicaciones Multiplataforma (DAM)</h3>
 
 <p align="left"> 
-  Finalizando el Grado Superior de DAM en Madrid. Me apasiona el desarrollo backend con Java/Spring y la creación de soluciones multiplataforma eficientes. Busco mi primera oportunidad profesional para aportar valor y seguir creciendo en entornos técnicos.
+  Finalizando el Grado Superior de DAM en Madrid. Me apasiona el desarrollo backend con Java/Spring y PHP/Symfony
 </p>
 
-- 🚀 **Actualmente:** Desarrollando mi Proyecto Final de Grado.
+- 🚀 **Actualmente:** En prácticas.
 - 📬 **Contacto:** [marinvilorioalvaro@gmail.com](mailto:marinvilorioalvaro@gmail.com)
 - 📍 **Ubicación:** Madrid, España.
 
